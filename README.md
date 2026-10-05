@@ -25,4 +25,4 @@ Yayına almadan önce gerçek bir test talebi göndererek alıcıya ulaştığı
 - script.js: form gönderimi ve durum mesajları
 - vercel.json: statik yayın ayarları
 
-Harici font, görsel veya JavaScript bağımlılığı yoktur. Hero görseli dosyaya gömülü özgün SVG yol kompozisyonudur; stok araç fotoğrafı veya logo kullanılmadı.
+Harici font, görsel veya JavaScript bağımlılığı yoktur. Hero görselsiz, metin odaklı bir düzendedir. Başlık, açıklama, menü ve form puntoları büyütülmüştür.
